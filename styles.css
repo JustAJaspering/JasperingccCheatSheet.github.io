@@ -1,0 +1,51 @@
+body {
+    background-color: #EFEFEF;
+}
+
+header h1 {
+    font-family: "Rubik";
+    text-align: center;
+    letter-spacing: 2px;
+    color: black;
+}
+
+h2 {
+    font-family: "Rubik";
+    width: 450px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: #FF383F;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #FF383F;
+    border-radius: 30px;
+}
+
+table {
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px black;
+    border-radius: 5px;
+    box-sizing: border-box;  
+
+}
+
+th {
+    font-family: "Rubik";
+    font-size: 18px;
+    text-align: center;
+    background-color: #CAEBF2;  
+}
+
+td .code {
+    font-family: "Share Tech Mono";
+    white-space: pre;
+    color:black;
+}
+
+td {
+    font-family: "Rubik";
+    text-align: left;
+    border-top: solid 1px black;
+}
